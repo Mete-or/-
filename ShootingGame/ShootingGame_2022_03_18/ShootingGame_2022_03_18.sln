@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShootingGame_2022_03_18", "ShootingGame_2022_03_18\ShootingGame_2022_03_18.vcxproj", "{DAC29951-6D81-44CE-A081-1096FFB50EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Debug|x64.ActiveCfg = Debug|x64
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Debug|x64.Build.0 = Debug|x64
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Debug|x86.Build.0 = Debug|Win32
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Release|x64.ActiveCfg = Release|x64
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Release|x64.Build.0 = Release|x64
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Release|x86.ActiveCfg = Release|Win32
+		{DAC29951-6D81-44CE-A081-1096FFB50EFA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9605AF9C-3B63-493F-85BE-A185E250DCD9}
+	EndGlobalSection
+EndGlobal
